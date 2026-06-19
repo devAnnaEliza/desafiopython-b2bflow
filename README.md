@@ -1,5 +1,3 @@
-# desafiopython-b2bflow
-
 # Desafio Python - b2bflow
 
 Projeto desenvolvido em Python para leitura de contatos cadastrados no Supabase e envio de mensagens personalizadas via Z-API.
